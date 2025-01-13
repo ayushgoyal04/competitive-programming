@@ -38,5 +38,27 @@ This repository is organized as follows:
 
 ## 🛠️ How to Use This Repository
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/ayushgoyal04/competitive-programming
+   \`\`\`bash
+   git clone <repository_url>
+   \`\`\`
+2. Navigate to the directory:
+   \`\`\`bash
+   cd competitive-programming
+   \`\`\`
+3. Compile and run a specific C++ file:
+   \`\`\`bash
+   g++ filename.cpp -o output
+   ./output
+   \`\`\`
+
+---
+
+## 🤝 Contributions
+This repository reflects my personal coding journey, but feedback is always welcome!
+If you'd like to suggest improvements or collaborate, feel free to fork the repository and submit a pull request. Let’s learn and grow together!
+
+---
+
+### 🌟 Thank you for visiting! 🌟
+Happy coding! 🎉
+" > README.md
