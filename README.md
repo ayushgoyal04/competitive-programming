@@ -62,3 +62,11 @@ If you'd like to suggest improvements or collaborate, feel free to fork the repo
 ### 🌟 Thank you for visiting! 🌟
 Happy coding! 🎉
 " > README.md
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
