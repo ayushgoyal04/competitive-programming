@@ -72,6 +72,7 @@ Happy coding! 🎉
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0001-two-sum) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Bit Manipulation
 |  |
@@ -81,4 +82,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
