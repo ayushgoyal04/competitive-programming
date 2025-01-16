@@ -69,4 +69,16 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
