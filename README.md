@@ -70,6 +70,7 @@ Happy coding! 🎉
 | ------- |
 | [0007-reverse-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ayushgoyal04/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
@@ -90,10 +91,12 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/ayushgoyal04/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ayushgoyal04/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushgoyal04/competitive-programming/tree/master/0014-longest-common-prefix) |
 ## Trie
