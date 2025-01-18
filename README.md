@@ -76,6 +76,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0001-two-sum) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushgoyal04/competitive-programming/tree/master/2792-neighboring-bitwise-xor) |
@@ -116,4 +117,24 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
