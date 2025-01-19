@@ -109,6 +109,7 @@ Happy coding! 🎉
 ## Two Pointers
 |  |
 | ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
@@ -141,4 +142,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
