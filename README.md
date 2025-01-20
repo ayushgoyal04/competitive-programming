@@ -81,6 +81,7 @@ Happy coding! 🎉
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ayushgoyal04/competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushgoyal04/competitive-programming/tree/master/2792-neighboring-bitwise-xor) |
 | [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
 ## Bit Manipulation
@@ -99,6 +100,7 @@ Happy coding! 🎉
 | [0012-integer-to-roman](https://github.com/ayushgoyal04/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ayushgoyal04/competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Happy coding! 🎉
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ayushgoyal04/competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
 | ------- |
