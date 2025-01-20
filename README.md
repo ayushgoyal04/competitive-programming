@@ -82,6 +82,7 @@ Happy coding! 🎉
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushgoyal04/competitive-programming/tree/master/2792-neighboring-bitwise-xor) |
+| [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Happy coding! 🎉
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
@@ -170,4 +173,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
