@@ -88,6 +88,7 @@ Happy coding! 🎉
 | [1876-map-of-highest-peak](https://github.com/ayushgoyal04/competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2145-grid-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/2145-grid-game) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayushgoyal04/competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushgoyal04/competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushgoyal04/competitive-programming/tree/master/2792-neighboring-bitwise-xor) |
@@ -123,6 +124,7 @@ Happy coding! 🎉
 | [0344-reverse-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ayushgoyal04/competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayushgoyal04/competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Trie
 |  |
 | ------- |
