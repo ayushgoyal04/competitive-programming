@@ -158,6 +158,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0101-symmetric-tree) |
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ayushgoyal04/competitive-programming/tree/master/0820-find-eventual-safe-states) |
@@ -226,6 +227,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0101-symmetric-tree) |
 | [0820-find-eventual-safe-states](https://github.com/ayushgoyal04/competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
 ## Union Find
@@ -240,8 +242,10 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
