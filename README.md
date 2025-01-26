@@ -86,6 +86,7 @@ Happy coding! 🎉
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayushgoyal04/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0119-pascals-triangle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -122,6 +123,7 @@ Happy coding! 🎉
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ayushgoyal04/competitive-programming/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/ayushgoyal04/competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
@@ -284,4 +286,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
