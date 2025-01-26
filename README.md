@@ -73,6 +73,7 @@ Happy coding! 🎉
 | [0012-integer-to-roman](https://github.com/ayushgoyal04/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/ayushgoyal04/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -130,6 +131,7 @@ Happy coding! 🎉
 | [0014-longest-common-prefix](https://github.com/ayushgoyal04/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/ayushgoyal04/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ayushgoyal04/competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
