@@ -175,6 +175,7 @@ Happy coding! 🎉
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ayushgoyal04/competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ayushgoyal04/competitive-programming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -239,6 +240,7 @@ Happy coding! 🎉
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/ayushgoyal04/competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ayushgoyal04/competitive-programming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ayushgoyal04/competitive-programming/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ayushgoyal04/competitive-programming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Tree
 |  |
 | ------- |
