@@ -121,6 +121,7 @@ Happy coding! 🎉
 | [0013-roman-to-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ayushgoyal04/competitive-programming/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ayushgoyal04/competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
@@ -134,6 +135,7 @@ Happy coding! 🎉
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ayushgoyal04/competitive-programming/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/ayushgoyal04/competitive-programming/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ayushgoyal04/competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
