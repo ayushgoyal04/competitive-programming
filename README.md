@@ -68,6 +68,7 @@ Happy coding! 🎉
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushgoyal04/competitive-programming/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ayushgoyal04/competitive-programming/tree/master/0012-integer-to-roman) |
@@ -212,6 +213,7 @@ Happy coding! 🎉
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushgoyal04/competitive-programming/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
@@ -307,4 +309,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayushgoyal04/competitive-programming/tree/master/0225-implement-stack-using-queues) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayushgoyal04/competitive-programming/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
