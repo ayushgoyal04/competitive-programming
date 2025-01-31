@@ -235,6 +235,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushgoyal04/competitive-programming/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ayushgoyal04/competitive-programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
@@ -341,4 +342,5 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushgoyal04/competitive-programming/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ayushgoyal04/competitive-programming/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
