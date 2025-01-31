@@ -83,6 +83,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushgoyal04/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayushgoyal04/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushgoyal04/competitive-programming/tree/master/0016-3sum-closest) |
@@ -246,6 +247,7 @@ Happy coding! 🎉
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushgoyal04/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -326,6 +328,7 @@ Happy coding! 🎉
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushgoyal04/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
