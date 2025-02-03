@@ -110,6 +110,7 @@ Happy coding! 🎉
 | [2792-neighboring-bitwise-xor](https://github.com/ayushgoyal04/competitive-programming/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ayushgoyal04/competitive-programming/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3429-special-array-i) |
 ## Bit Manipulation
 |  |
