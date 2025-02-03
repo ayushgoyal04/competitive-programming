@@ -88,6 +88,7 @@ Happy coding! 🎉
 | [0011-container-with-most-water](https://github.com/ayushgoyal04/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushgoyal04/competitive-programming/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayushgoyal04/competitive-programming/tree/master/0118-pascals-triangle) |
@@ -132,6 +133,7 @@ Happy coding! 🎉
 | [0012-integer-to-roman](https://github.com/ayushgoyal04/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayushgoyal04/competitive-programming/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ayushgoyal04/competitive-programming/tree/master/0205-isomorphic-strings) |
@@ -152,6 +154,7 @@ Happy coding! 🎉
 | [0014-longest-common-prefix](https://github.com/ayushgoyal04/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayushgoyal04/competitive-programming/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ayushgoyal04/competitive-programming/tree/master/0168-excel-sheet-column-title) |
@@ -192,6 +195,7 @@ Happy coding! 🎉
 | ------- |
 | [0015-3sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushgoyal04/competitive-programming/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
 ## Breadth-First Search
