@@ -91,6 +91,7 @@ Happy coding! 🎉
 | [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayushgoyal04/competitive-programming/tree/master/0118-pascals-triangle) |
@@ -161,6 +162,7 @@ Happy coding! 🎉
 | [0032-longest-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ayushgoyal04/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ayushgoyal04/competitive-programming/tree/master/0205-isomorphic-strings) |
@@ -239,6 +241,7 @@ Happy coding! 🎉
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -302,6 +305,7 @@ Happy coding! 🎉
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -384,4 +388,5 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
