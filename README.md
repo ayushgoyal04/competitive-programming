@@ -93,6 +93,7 @@ Happy coding! 🎉
 | [0078-subsets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayushgoyal04/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0119-pascals-triangle-ii) |
@@ -266,6 +267,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushgoyal04/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
