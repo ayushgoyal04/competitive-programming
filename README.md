@@ -98,6 +98,7 @@ Happy coding! 🎉
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/ayushgoyal04/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ayushgoyal04/competitive-programming/tree/master/1876-map-of-highest-peak) |
@@ -141,6 +142,7 @@ Happy coding! 🎉
 | [0383-ransom-note](https://github.com/ayushgoyal04/competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/ayushgoyal04/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushgoyal04/competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
 |  |
@@ -286,6 +288,7 @@ Happy coding! 🎉
 | ------- |
 | [0383-ransom-note](https://github.com/ayushgoyal04/competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [1364-tuple-with-same-product](https://github.com/ayushgoyal04/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
 ## Simulation
 |  |
