@@ -90,6 +90,7 @@ Happy coding! 🎉
 | [0016-3sum-closest](https://github.com/ayushgoyal04/competitive-programming/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayushgoyal04/competitive-programming/tree/master/0118-pascals-triangle) |
@@ -120,6 +121,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushgoyal04/competitive-programming/tree/master/2792-neighboring-bitwise-xor) |
@@ -378,4 +380,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
