@@ -89,6 +89,7 @@ Happy coding! 🎉
 | [0015-3sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushgoyal04/competitive-programming/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayushgoyal04/competitive-programming/tree/master/0118-pascals-triangle) |
@@ -269,6 +270,7 @@ Happy coding! 🎉
 | [0005-longest-palindromic-substring](https://github.com/ayushgoyal04/competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ayushgoyal04/competitive-programming/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ayushgoyal04/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
@@ -344,6 +346,7 @@ Happy coding! 🎉
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushgoyal04/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
