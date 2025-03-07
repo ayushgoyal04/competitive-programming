@@ -78,6 +78,7 @@ Happy coding! 🎉
 | [0168-excel-sheet-column-title](https://github.com/ayushgoyal04/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
+| [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ayushgoyal04/competitive-programming/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -293,6 +294,7 @@ Happy coding! 🎉
 | [0119-pascals-triangle-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -397,6 +399,7 @@ Happy coding! 🎉
 | [0010-regular-expression-matching](https://github.com/ayushgoyal04/competitive-programming/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushgoyal04/competitive-programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ayushgoyal04/competitive-programming/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -410,4 +413,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/ayushgoyal04/competitive-programming/tree/master/2610-closest-prime-numbers-in-range) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
