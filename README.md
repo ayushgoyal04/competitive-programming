@@ -171,6 +171,7 @@ Happy coding! 🎉
 | [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/ayushgoyal04/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ayushgoyal04/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ayushgoyal04/competitive-programming/tree/master/0205-isomorphic-strings) |
@@ -193,6 +194,7 @@ Happy coding! 🎉
 | [0016-3sum-closest](https://github.com/ayushgoyal04/competitive-programming/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/ayushgoyal04/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0202-happy-number) |
