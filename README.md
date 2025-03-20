@@ -123,6 +123,7 @@ Happy coding! 🎉
 | [2876-number-of-employees-who-met-the-target](https://github.com/ayushgoyal04/competitive-programming/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayushgoyal04/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ayushgoyal04/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3429-special-array-i) |
 ## Bit Manipulation
@@ -133,6 +134,7 @@ Happy coding! 🎉
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushgoyal04/competitive-programming/tree/master/2792-neighboring-bitwise-xor) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ayushgoyal04/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Brainteaser
 |  |
 | ------- |
@@ -244,6 +246,7 @@ Happy coding! 🎉
 | [1558-course-schedule-iv](https://github.com/ayushgoyal04/competitive-programming/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ayushgoyal04/competitive-programming/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ayushgoyal04/competitive-programming/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ayushgoyal04/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -342,6 +345,7 @@ Happy coding! 🎉
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ayushgoyal04/competitive-programming/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ayushgoyal04/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
