@@ -76,6 +76,7 @@ Happy coding! 🎉
 | [0050-powx-n](https://github.com/ayushgoyal04/competitive-programming/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ayushgoyal04/competitive-programming/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
@@ -102,6 +103,7 @@ Happy coding! 🎉
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayushgoyal04/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
@@ -201,6 +203,7 @@ Happy coding! 🎉
 | [0125-valid-palindrome](https://github.com/ayushgoyal04/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
