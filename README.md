@@ -83,6 +83,7 @@ Happy coding! 🎉
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ayushgoyal04/competitive-programming/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2998-count-symmetric-integers](https://github.com/ayushgoyal04/competitive-programming/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayushgoyal04/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -428,4 +429,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/ayushgoyal04/competitive-programming/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
