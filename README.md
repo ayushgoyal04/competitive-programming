@@ -433,4 +433,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/ayushgoyal04/competitive-programming/tree/master/2998-count-symmetric-integers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ayushgoyal04/competitive-programming/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
