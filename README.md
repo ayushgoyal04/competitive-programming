@@ -115,6 +115,7 @@ Happy coding! 🎉
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ayushgoyal04/competitive-programming/tree/master/1876-map-of-highest-peak) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2145-grid-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/2145-grid-game) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayushgoyal04/competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -219,6 +220,7 @@ Happy coding! 🎉
 | [0011-container-with-most-water](https://github.com/ayushgoyal04/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -226,6 +228,7 @@ Happy coding! 🎉
 | [0015-3sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushgoyal04/competitive-programming/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
 ## Breadth-First Search
@@ -295,6 +298,7 @@ Happy coding! 🎉
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -313,6 +317,7 @@ Happy coding! 🎉
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2145-grid-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/2145-grid-game) |
 ## Queue
 |  |
@@ -398,6 +403,7 @@ Happy coding! 🎉
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushgoyal04/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayushgoyal04/competitive-programming/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0219-contains-duplicate-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
