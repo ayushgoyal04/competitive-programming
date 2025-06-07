@@ -166,6 +166,7 @@ Happy coding! 🎉
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushgoyal04/competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayushgoyal04/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Happy coding! 🎉
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayushgoyal04/competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
 | ------- |
@@ -225,6 +227,7 @@ Happy coding! 🎉
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -268,6 +271,7 @@ Happy coding! 🎉
 | [0407-trapping-rain-water-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
 |  |
 | ------- |
@@ -413,6 +417,7 @@ Happy coding! 🎉
 | [0032-longest-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ayushgoyal04/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
 |  |
 | ------- |
