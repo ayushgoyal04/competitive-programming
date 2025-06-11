@@ -194,6 +194,7 @@ Happy coding! 🎉
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Happy coding! 🎉
 | [0560-subarray-sum-equals-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2145-grid-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/2145-grid-game) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
 |  |
 | ------- |
@@ -411,6 +413,7 @@ Happy coding! 🎉
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayushgoyal04/competitive-programming/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -451,6 +454,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/ayushgoyal04/competitive-programming/tree/master/2998-count-symmetric-integers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Database
 |  |
 | ------- |
