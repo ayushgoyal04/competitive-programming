@@ -124,6 +124,7 @@ Happy coding! 🎉
 | [2551-apply-operations-to-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushgoyal04/competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayushgoyal04/competitive-programming/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushgoyal04/competitive-programming/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ayushgoyal04/competitive-programming/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -228,6 +229,7 @@ Happy coding! 🎉
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayushgoyal04/competitive-programming/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
@@ -307,6 +309,7 @@ Happy coding! 🎉
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayushgoyal04/competitive-programming/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
