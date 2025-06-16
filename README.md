@@ -118,6 +118,7 @@ Happy coding! 🎉
 | [1876-map-of-highest-peak](https://github.com/ayushgoyal04/competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/ayushgoyal04/competitive-programming/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/2145-grid-game) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayushgoyal04/competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
