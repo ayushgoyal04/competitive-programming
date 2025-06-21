@@ -176,6 +176,7 @@ Happy coding! 🎉
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushgoyal04/competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayushgoyal04/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayushgoyal04/competitive-programming/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayushgoyal04/competitive-programming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -204,6 +205,7 @@ Happy coding! 🎉
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayushgoyal04/competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayushgoyal04/competitive-programming/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayushgoyal04/competitive-programming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -245,6 +247,7 @@ Happy coding! 🎉
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ayushgoyal04/competitive-programming/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayushgoyal04/competitive-programming/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ayushgoyal04/competitive-programming/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayushgoyal04/competitive-programming/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
@@ -259,6 +262,7 @@ Happy coding! 🎉
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ayushgoyal04/competitive-programming/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayushgoyal04/competitive-programming/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,6 +368,7 @@ Happy coding! 🎉
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [1364-tuple-with-same-product](https://github.com/ayushgoyal04/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayushgoyal04/competitive-programming/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayushgoyal04/competitive-programming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
