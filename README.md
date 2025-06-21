@@ -107,6 +107,7 @@ Happy coding! 🎉
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayushgoyal04/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushgoyal04/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0219-contains-duplicate-ii) |
@@ -338,6 +339,7 @@ Happy coding! 🎉
 | [0053-maximum-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ayushgoyal04/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushgoyal04/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
