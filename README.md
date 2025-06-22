@@ -204,6 +204,7 @@ Happy coding! 🎉
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayushgoyal04/competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayushgoyal04/competitive-programming/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -374,6 +375,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
 ## Depth-First Search
