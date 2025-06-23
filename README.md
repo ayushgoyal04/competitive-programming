@@ -80,6 +80,7 @@ Happy coding! 🎉
 | [0202-happy-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/ayushgoyal04/competitive-programming/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ayushgoyal04/competitive-programming/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -486,6 +487,7 @@ Happy coding! 🎉
 ## Enumeration
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/ayushgoyal04/competitive-programming/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/ayushgoyal04/competitive-programming/tree/master/2998-count-symmetric-integers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Database
