@@ -1,33 +1,48 @@
 class Solution {
 public:
-    string longestPalindrome(string s) {
-        if (s.empty()) {
-            return "";
+    bool isPalindrome(string s){
+        int left = 0;
+        int right = s.size() - 1;
+        while(left < right){
+            if(s[left] == s[right]){
+                left++;
+                right--;
+            } else {
+                return false;
+            }
         }
+        return true;
+    }
 
-        int start = 0;
-        int end = 0;
+    string longestPalindrome(string s) {
+        int n = s.size();
+        string result = "";
 
-        for (int i = 0; i < s.length(); i++) {
-            int odd = expandAroundCenter(s, i, i);
-            int even = expandAroundCenter(s, i, i + 1);
-            int max_len = max(odd, even);
+        for(int center = 0; center < n; ++center){
+            // Odd length
+            int l = center, r = center;
+            while (l >= 0 && r < n && s[l] == s[r]) {
+                string temp = s.substr(l, r - l + 1);
+                if (temp.size() > result.size() && isPalindrome(temp)) {
+                    result = temp;
+                }
+                l--;
+                r++;
+            }
 
-            if (max_len > end - start) {
-                start = i - (max_len - 1) / 2;
-                end = i + max_len / 2;
+            // Even length
+            l = center;
+            r = center + 1;
+            while (l >= 0 && r < n && s[l] == s[r]) {
+                string temp = s.substr(l, r - l + 1);
+                if (temp.size() > result.size() && isPalindrome(temp)) {
+                    result = temp;
+                }
+                l--;
+                r++;
             }
         }
 
-        return s.substr(start, end - start + 1);        
+        return result;
     }
-
-private:
-    int expandAroundCenter(string s, int left, int right) {
-        while (left >= 0 && right < s.length() && s[left] == s[right]) {
-            left--;
-            right++;
-        }
-        return right - left - 1;
-    }    
 };
