@@ -127,6 +127,7 @@ Happy coding! 🎉
 | [1876-map-of-highest-peak](https://github.com/ayushgoyal04/competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ayushgoyal04/competitive-programming/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/2145-grid-game) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayushgoyal04/competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -180,6 +181,7 @@ Happy coding! 🎉
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/ayushgoyal04/competitive-programming/tree/master/1364-tuple-with-same-product) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushgoyal04/competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayushgoyal04/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
@@ -474,6 +476,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayushgoyal04/competitive-programming/tree/master/0225-implement-stack-using-queues) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Recursion
 |  |
 | ------- |
