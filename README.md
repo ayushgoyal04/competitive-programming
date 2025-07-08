@@ -124,6 +124,7 @@ Happy coding! 🎉
 | [1364-tuple-with-same-product](https://github.com/ayushgoyal04/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/ayushgoyal04/competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -271,6 +272,7 @@ Happy coding! 🎉
 | [0075-sort-colors](https://github.com/ayushgoyal04/competitive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -346,6 +348,7 @@ Happy coding! 🎉
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayushgoyal04/competitive-programming/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
@@ -363,6 +366,7 @@ Happy coding! 🎉
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Prefix Sum
 |  |
