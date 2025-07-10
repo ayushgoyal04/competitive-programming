@@ -113,6 +113,7 @@ Happy coding! 🎉
 | [0169-majority-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -155,6 +156,7 @@ Happy coding! 🎉
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushgoyal04/competitive-programming/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ayushgoyal04/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -243,6 +245,7 @@ Happy coding! 🎉
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -347,6 +350,7 @@ Happy coding! 🎉
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushgoyal04/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
