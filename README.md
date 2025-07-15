@@ -222,6 +222,7 @@ Happy coding! 🎉
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayushgoyal04/competitive-programming/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/ayushgoyal04/competitive-programming/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayushgoyal04/competitive-programming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
