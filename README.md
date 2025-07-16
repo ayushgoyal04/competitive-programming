@@ -150,6 +150,7 @@ Happy coding! 🎉
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ayushgoyal04/competitive-programming/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3429-special-array-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Bit Manipulation
 |  |
@@ -377,6 +378,7 @@ Happy coding! 🎉
 | [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Prefix Sum
 |  |
 | ------- |
