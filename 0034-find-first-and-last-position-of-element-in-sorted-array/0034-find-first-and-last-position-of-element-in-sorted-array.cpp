@@ -16,7 +16,6 @@ public:
                 left = mid + 1;
             }
             else if(nums[mid]>target) {
-                // leftans = mid;
                 right = mid - 1;
             }
             if(nums[mid] == target) {
@@ -26,7 +25,7 @@ public:
         }
 
         // finding the right ans
-        left = 0; 
+        left = mid; 
         right = nums.size()-1;
         while(left <= right) {
             mid = right + (left - right) /2;
@@ -35,7 +34,6 @@ public:
                 left = mid + 1;
             }
             else if(nums[mid]>target) {
-                // leftans = mid;
                 right = mid - 1;
             }
             if(nums[mid] == target) {
