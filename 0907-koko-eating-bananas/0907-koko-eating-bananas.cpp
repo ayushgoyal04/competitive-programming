@@ -1,5 +1,13 @@
 class Solution {
 public:
+    int findmax(vector<int>& piles){
+        int maxi = INT_MIN;
+        for(int i = 0; i < piles.size(); i++){
+            maxi = max(maxi, piles[i]);
+        }
+        return maxi;
+    }
+
     bool caneatbananaintime(vector<int>& piles, int speed, int hours){
         for(int i = 0; i <piles.size(); i++){
             if(piles[i]<=speed) {
@@ -23,19 +31,19 @@ public:
     }
 
     int minEatingSpeed(vector<int>& piles, int h) {
-        int left = 1; long long int right = 10e9;
-        int mid, ans = INT_MAX;
+        int left = 1; int right = findmax(piles);
+        int mid;
         while(left <= right) {
             mid = left + (right - left) / 2;
 
             if(caneatbananaintime(piles, mid, h)){
-                ans = min(ans, mid);
+                // ans = min(ans, mid);
                 right = mid - 1;
             }
             else {
                 left = mid + 1;
             }
         }
-        return ans;
+        return left;
     }
 };
