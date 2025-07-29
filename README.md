@@ -75,6 +75,7 @@ Happy coding! 🎉
 | [0013-roman-to-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ayushgoyal04/competitive-programming/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ayushgoyal04/competitive-programming/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/ayushgoyal04/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0202-happy-number) |
@@ -360,6 +361,7 @@ Happy coding! 🎉
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushgoyal04/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/ayushgoyal04/competitive-programming/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/0162-find-peak-element) |
