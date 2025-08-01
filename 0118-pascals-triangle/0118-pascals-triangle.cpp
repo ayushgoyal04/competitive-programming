@@ -1,22 +1,18 @@
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
-        std::vector<std::vector<int>> res;
-        res.push_back({1});
+        vector<vector<int>> a;
 
-        for (int i = 0; i < numRows - 1; i++) {
-            std::vector<int> dummyRow = {0};
-            dummyRow.insert(dummyRow.end(), res.back().begin(), res.back().end());
-            dummyRow.push_back(0);
-            std::vector<int> row;
+        if(numRows == 1) return {{1}};
 
-            for (int j = 0; j < dummyRow.size() - 1; j++) {
-                row.push_back(dummyRow[j] + dummyRow[j + 1]);
-            }
+        for(int i = 0; i < numRows; i++){
+            vector<int> row(i + 1, 1);
 
-            res.push_back(row);
+            for(int j = 1; j < i; j++){
+                row[j] = a[i - 1][j - 1] + a[i - 1][j];
+            } 
+            a.push_back(row);
         }
-
-        return res;        
+        return a;
     }
 };
