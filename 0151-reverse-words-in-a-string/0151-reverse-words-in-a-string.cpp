@@ -1,18 +1,36 @@
 class Solution {
 public:
+    // int nextch(string s, int curr){
+    //     while(s[curr]==" "){
+    //         curr++;
+    //     }
+    //     return curr;
+    // }
+
     string reverseWords(string s) {
-        reverse(s.begin(),s.end());
-        int i=0, j=0;
-        int n = s.length();
-        string ans;
-        while(j<n){
-            while(s[j] == ' ') j++;
-            i=j;
-            while(j<n && s[j]!=' ') j++;
-            reverse(s.begin()+i, s.begin()+j);
-            ans+= s.substr(i,j-i) +" ";
+        vector<string> v;
+        string temp = "";
+        for(int i = 0; i < s.size(); i++){
+            if(s[i]!=' '){
+                temp += s[i];
+            }
+            else{
+                if(!temp.empty()){
+                    v.push_back(temp);
+                    temp = "";
+                }
+            }
         }
-        while(ans.back()== ' ') ans.pop_back();
+            if(!temp.empty()){
+                    v.push_back(temp);
+                    temp = "";
+                }
+        string ans = "";
+        for(int i = v.size()-1; i>0; i--){
+            ans += v[i];
+            ans+=" ";
+        }       
+        ans=ans+v[0];
         return ans;
     }
 };
