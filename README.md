@@ -212,6 +212,7 @@ Happy coding! 🎉
 | [0012-integer-to-roman](https://github.com/ayushgoyal04/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ayushgoyal04/competitive-programming/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayushgoyal04/competitive-programming/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
@@ -507,6 +508,7 @@ Happy coding! 🎉
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/ayushgoyal04/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0234-palindrome-linked-list) |
