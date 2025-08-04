@@ -136,6 +136,7 @@ Happy coding! 🎉
 | [1364-tuple-with-same-product](https://github.com/ayushgoyal04/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1646-kth-missing-positive-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/ayushgoyal04/competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -389,6 +390,7 @@ Happy coding! 🎉
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ayushgoyal04/competitive-programming/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushgoyal04/competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1646-kth-missing-positive-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayushgoyal04/competitive-programming/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
