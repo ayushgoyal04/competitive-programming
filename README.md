@@ -128,6 +128,7 @@ Happy coding! 🎉
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0898-transpose-matrix](https://github.com/ayushgoyal04/competitive-programming/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/ayushgoyal04/competitive-programming/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushgoyal04/competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
@@ -345,6 +346,7 @@ Happy coding! 🎉
 | [0073-set-matrix-zeroes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0407-trapping-rain-water-ii) |
+| [0898-transpose-matrix](https://github.com/ayushgoyal04/competitive-programming/tree/master/0898-transpose-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ayushgoyal04/competitive-programming/tree/master/1876-map-of-highest-peak) |
@@ -437,6 +439,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
+| [0898-transpose-matrix](https://github.com/ayushgoyal04/competitive-programming/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
