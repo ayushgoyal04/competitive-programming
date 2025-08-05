@@ -165,6 +165,7 @@ Happy coding! 🎉
 | [3429-special-array-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3429-special-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -399,6 +400,7 @@ Happy coding! 🎉
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayushgoyal04/competitive-programming/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -450,6 +452,7 @@ Happy coding! 🎉
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
+| [3790-fruits-into-baskets-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -594,4 +597,12 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/0496-next-greater-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
