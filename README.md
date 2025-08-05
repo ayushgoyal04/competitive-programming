@@ -123,6 +123,7 @@ Happy coding! 🎉
 | [0407-trapping-rain-water-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
@@ -197,6 +198,7 @@ Happy coding! 🎉
 | [0383-ransom-note](https://github.com/ayushgoyal04/competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0940-fruit-into-baskets) |
@@ -530,6 +532,7 @@ Happy coding! 🎉
 | [0225-implement-stack-using-queues](https://github.com/ayushgoyal04/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayushgoyal04/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/1078-remove-outermost-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -587,4 +590,8 @@ Happy coding! 🎉
 | [0196-delete-duplicate-emails](https://github.com/ayushgoyal04/competitive-programming/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ayushgoyal04/competitive-programming/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/ayushgoyal04/competitive-programming/tree/master/0577-employee-bonus) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
