@@ -74,6 +74,7 @@ Happy coding! 🎉
 | [0012-integer-to-roman](https://github.com/ayushgoyal04/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgoyal04/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ayushgoyal04/competitive-programming/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/ayushgoyal04/competitive-programming/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ayushgoyal04/competitive-programming/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayushgoyal04/competitive-programming/tree/master/0069-sqrtx) |
@@ -101,6 +102,7 @@ Happy coding! 🎉
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/ayushgoyal04/competitive-programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0073-set-matrix-zeroes) |
@@ -352,6 +354,7 @@ Happy coding! 🎉
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayushgoyal04/competitive-programming/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0407-trapping-rain-water-ii) |
