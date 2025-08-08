@@ -135,6 +135,7 @@ Happy coding! 🎉
 | [0898-transpose-matrix](https://github.com/ayushgoyal04/competitive-programming/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/ayushgoyal04/competitive-programming/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushgoyal04/competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayushgoyal04/competitive-programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -402,6 +403,7 @@ Happy coding! 🎉
 | [0792-binary-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ayushgoyal04/competitive-programming/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushgoyal04/competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -431,6 +433,7 @@ Happy coding! 🎉
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2145-grid-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/2145-grid-game) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -530,6 +533,7 @@ Happy coding! 🎉
 | [0219-contains-duplicate-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
