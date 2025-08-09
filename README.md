@@ -81,6 +81,7 @@ Happy coding! 🎉
 | [0168-excel-sheet-column-title](https://github.com/ayushgoyal04/competitive-programming/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ayushgoyal04/competitive-programming/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ayushgoyal04/competitive-programming/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -177,6 +178,7 @@ Happy coding! 🎉
 | [0067-add-binary](https://github.com/ayushgoyal04/competitive-programming/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ayushgoyal04/competitive-programming/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayushgoyal04/competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/ayushgoyal04/competitive-programming/tree/master/2792-neighboring-bitwise-xor) |
@@ -565,6 +567,7 @@ Happy coding! 🎉
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushgoyal04/competitive-programming/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ayushgoyal04/competitive-programming/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ayushgoyal04/competitive-programming/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
 ## Merge Sort
