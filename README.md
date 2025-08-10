@@ -475,6 +475,7 @@ Happy coding! 🎉
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/ayushgoyal04/competitive-programming/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ayushgoyal04/competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -507,6 +508,7 @@ Happy coding! 🎉
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -519,6 +521,7 @@ Happy coding! 🎉
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Divide and Conquer
@@ -552,6 +555,7 @@ Happy coding! 🎉
 | [0032-longest-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ayushgoyal04/competitive-programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ayushgoyal04/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayushgoyal04/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
