@@ -469,6 +469,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ayushgoyal04/competitive-programming/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -499,6 +500,7 @@ Happy coding! 🎉
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -510,6 +512,7 @@ Happy coding! 🎉
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushgoyal04/competitive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -547,6 +550,7 @@ Happy coding! 🎉
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/ayushgoyal04/competitive-programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ayushgoyal04/competitive-programming/tree/master/0225-implement-stack-using-queues) |
