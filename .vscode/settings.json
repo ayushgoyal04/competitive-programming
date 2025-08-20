@@ -1,8 +1,11 @@
 {
     "files.associations": {
+        "*.html": "html",
         ".php_cs": "php",
         ".php_cs.dist": "php",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "new": "cpp",
+        "mutex": "cpp"
     }
 }

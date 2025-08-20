@@ -1,6 +1,0 @@
-echo "node_modules/
-*.log
-*.exe
-*.o
-*.class
-.DS_Store" > .gitignore

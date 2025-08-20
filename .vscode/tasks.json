@@ -6,9 +6,10 @@
             "type": "shell",
             "command": "cmd.exe",
             "args": [
-                "/c",
-                "cd /d \"${fileDirname}\" && g++ \"${file}\" -o \"${fileDirname}\\program.exe\" && \"${fileDirname}\\program.exe\" < \"${workspaceFolder}\\input.txt\" > \"${workspaceFolder}\\output.txt\""
-            ],
+    "/c",
+    "cd /d \"${fileDirname}\" && g++ -std=c++17 \"${file}\" -o \"${fileDirname}\\program.exe\" && \"${fileDirname}\\program.exe\" < \"${workspaceFolder}\\input.txt\" > \"${workspaceFolder}\\output.txt\""
+],
+
             "presentation": {
                 "reveal": "always"
             },
