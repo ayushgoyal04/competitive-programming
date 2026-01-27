@@ -356,6 +356,7 @@ Happy coding! 🎉
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/3226-minimum-number-game) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayushgoyal04/competitive-programming/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Matrix
 |  |
 | ------- |
@@ -375,6 +376,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayushgoyal04/competitive-programming/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Linked List
 |  |
 | ------- |
@@ -634,4 +636,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayushgoyal04/competitive-programming/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
