@@ -169,6 +169,7 @@ Happy coding! 🎉
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3429-special-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ayushgoyal04/competitive-programming/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -372,6 +373,7 @@ Happy coding! 🎉
 | [2685-first-completely-painted-row-or-column](https://github.com/ayushgoyal04/competitive-programming/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ayushgoyal04/competitive-programming/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ayushgoyal04/competitive-programming/tree/master/3227-find-missing-and-repeated-values) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ayushgoyal04/competitive-programming/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -433,6 +435,7 @@ Happy coding! 🎉
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ayushgoyal04/competitive-programming/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
 | ------- |
