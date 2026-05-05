@@ -215,6 +215,7 @@ Happy coding! 🎉
 | [0940-fruit-into-baskets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1122-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushgoyal04/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/ayushgoyal04/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -249,6 +250,7 @@ Happy coding! 🎉
 | [1078-remove-outermost-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayushgoyal04/competitive-programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushgoyal04/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ayushgoyal04/competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -560,6 +562,7 @@ Happy coding! 🎉
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushgoyal04/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
