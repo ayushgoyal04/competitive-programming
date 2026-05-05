@@ -139,6 +139,7 @@ Happy coding! 🎉
 | [1046-max-consecutive-ones-iii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushgoyal04/competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1122-relative-sort-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ayushgoyal04/competitive-programming/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayushgoyal04/competitive-programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/ayushgoyal04/competitive-programming/tree/master/1364-tuple-with-same-product) |
@@ -296,6 +297,7 @@ Happy coding! 🎉
 | [0011-container-with-most-water](https://github.com/ayushgoyal04/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ayushgoyal04/competitive-programming/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -317,6 +319,7 @@ Happy coding! 🎉
 | [0169-majority-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1122-relative-sort-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ayushgoyal04/competitive-programming/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -435,6 +438,7 @@ Happy coding! 🎉
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/ayushgoyal04/competitive-programming/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
