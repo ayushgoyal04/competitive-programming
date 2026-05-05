@@ -138,6 +138,7 @@ Happy coding! 🎉
 | [0940-fruit-into-baskets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushgoyal04/competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1122-relative-sort-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1122-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayushgoyal04/competitive-programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/ayushgoyal04/competitive-programming/tree/master/1364-tuple-with-same-product) |
@@ -211,6 +212,7 @@ Happy coding! 🎉
 | [0560-subarray-sum-equals-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0940-fruit-into-baskets) |
+| [1122-relative-sort-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1122-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/ayushgoyal04/competitive-programming/tree/master/1364-tuple-with-same-product) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -314,6 +316,7 @@ Happy coding! 🎉
 | [0075-sort-colors](https://github.com/ayushgoyal04/competitive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
+| [1122-relative-sort-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1122-relative-sort-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -643,4 +646,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ayushgoyal04/competitive-programming/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
