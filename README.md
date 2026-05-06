@@ -260,6 +260,7 @@ Happy coding! 🎉
 | [3396-valid-word](https://github.com/ayushgoyal04/competitive-programming/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3617-find-the-original-typed-string-i) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ayushgoyal04/competitive-programming/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/ayushgoyal04/competitive-programming/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
@@ -310,6 +311,7 @@ Happy coding! 🎉
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ayushgoyal04/competitive-programming/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ayushgoyal04/competitive-programming/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ayushgoyal04/competitive-programming/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ayushgoyal04/competitive-programming/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
@@ -445,6 +447,7 @@ Happy coding! 🎉
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ayushgoyal04/competitive-programming/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ayushgoyal04/competitive-programming/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Prefix Sum
 |  |
@@ -454,6 +457,7 @@ Happy coding! 🎉
 | [1046-max-consecutive-ones-iii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2145-grid-game](https://github.com/ayushgoyal04/competitive-programming/tree/master/2145-grid-game) |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/ayushgoyal04/competitive-programming/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Queue
 |  |
