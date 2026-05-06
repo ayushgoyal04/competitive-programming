@@ -439,6 +439,7 @@ Happy coding! 🎉
 | [0152-maximum-product-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/ayushgoyal04/competitive-programming/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
+| [0968-binary-tree-cameras](https://github.com/ayushgoyal04/competitive-programming/tree/master/0968-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayushgoyal04/competitive-programming/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -493,6 +494,7 @@ Happy coding! 🎉
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/ayushgoyal04/competitive-programming/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ayushgoyal04/competitive-programming/tree/master/0820-find-eventual-safe-states) |
+| [0968-binary-tree-cameras](https://github.com/ayushgoyal04/competitive-programming/tree/master/0968-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayushgoyal04/competitive-programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/ayushgoyal04/competitive-programming/tree/master/1396-count-servers-that-communicate) |
@@ -526,6 +528,7 @@ Happy coding! 🎉
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
+| [0968-binary-tree-cameras](https://github.com/ayushgoyal04/competitive-programming/tree/master/0968-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -540,6 +543,7 @@ Happy coding! 🎉
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushgoyal04/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
+| [0968-binary-tree-cameras](https://github.com/ayushgoyal04/competitive-programming/tree/master/0968-binary-tree-cameras) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
