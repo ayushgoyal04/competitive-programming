@@ -137,6 +137,7 @@ Happy coding! 🎉
 | [0907-koko-eating-bananas](https://github.com/ayushgoyal04/competitive-programming/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/ayushgoyal04/competitive-programming/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushgoyal04/competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayushgoyal04/competitive-programming/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -213,6 +214,7 @@ Happy coding! 🎉
 | [0560-subarray-sum-equals-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/ayushgoyal04/competitive-programming/tree/master/0940-fruit-into-baskets) |
+| [1048-longest-string-chain](https://github.com/ayushgoyal04/competitive-programming/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1122-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/ayushgoyal04/competitive-programming/tree/master/1319-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushgoyal04/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -247,6 +249,7 @@ Happy coding! 🎉
 | [0344-reverse-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ayushgoyal04/competitive-programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [1048-longest-string-chain](https://github.com/ayushgoyal04/competitive-programming/tree/master/1048-longest-string-chain) |
 | [1078-remove-outermost-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ayushgoyal04/competitive-programming/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -290,6 +293,7 @@ Happy coding! 🎉
 | [0287-find-the-duplicate-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ayushgoyal04/competitive-programming/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0908-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/ayushgoyal04/competitive-programming/tree/master/1048-longest-string-chain) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -322,6 +326,7 @@ Happy coding! 🎉
 | [0075-sort-colors](https://github.com/ayushgoyal04/competitive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ayushgoyal04/competitive-programming/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushgoyal04/competitive-programming/tree/master/0594-longest-harmonious-subsequence) |
+| [1048-longest-string-chain](https://github.com/ayushgoyal04/competitive-programming/tree/master/1048-longest-string-chain) |
 | [1122-relative-sort-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayushgoyal04/competitive-programming/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -443,6 +448,7 @@ Happy coding! 🎉
 | [0410-split-array-largest-sum](https://github.com/ayushgoyal04/competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0968-binary-tree-cameras](https://github.com/ayushgoyal04/competitive-programming/tree/master/0968-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/ayushgoyal04/competitive-programming/tree/master/1013-fibonacci-number) |
+| [1048-longest-string-chain](https://github.com/ayushgoyal04/competitive-programming/tree/master/1048-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ayushgoyal04/competitive-programming/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ayushgoyal04/competitive-programming/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
