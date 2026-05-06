@@ -103,6 +103,7 @@ Happy coding! 🎉
 | [0016-3sum-closest](https://github.com/ayushgoyal04/competitive-programming/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ayushgoyal04/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ayushgoyal04/competitive-programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayushgoyal04/competitive-programming/tree/master/0049-group-anagrams) |
@@ -281,6 +282,7 @@ Happy coding! 🎉
 | [0016-3sum-closest](https://github.com/ayushgoyal04/competitive-programming/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushgoyal04/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ayushgoyal04/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ayushgoyal04/competitive-programming/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ayushgoyal04/competitive-programming/tree/master/0125-valid-palindrome) |
@@ -440,6 +442,7 @@ Happy coding! 🎉
 | [0005-longest-palindromic-substring](https://github.com/ayushgoyal04/competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ayushgoyal04/competitive-programming/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ayushgoyal04/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayushgoyal04/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ayushgoyal04/competitive-programming/tree/master/0118-pascals-triangle) |
@@ -587,6 +590,7 @@ Happy coding! 🎉
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayushgoyal04/competitive-programming/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ayushgoyal04/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushgoyal04/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
@@ -656,6 +660,7 @@ Happy coding! 🎉
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayushgoyal04/competitive-programming/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ayushgoyal04/competitive-programming/tree/master/0496-next-greater-element-i) |
 ## Segment Tree
 |  |
