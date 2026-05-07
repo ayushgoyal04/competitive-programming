@@ -404,6 +404,7 @@ Happy coding! 🎉
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushgoyal04/competitive-programming/tree/master/0025-reverse-nodes-in-k-group) |
+| [0092-reverse-linked-list-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushgoyal04/competitive-programming/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushgoyal04/competitive-programming/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ayushgoyal04/competitive-programming/tree/master/0206-reverse-linked-list) |
